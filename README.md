@@ -5,7 +5,7 @@ The Smart Cap aims to bring the world as a narrative to the visually impaired. T
 
 Project includes:
 
-1.Microsoft cognitive services - computer vision API
+1.Microsoft cognitive services - computer vision API <br>
 2.Computer vision
 3.AWS services (dynamoDB)
 4.Alexa / gtts
